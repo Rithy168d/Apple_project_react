@@ -1,5 +1,5 @@
 import { Menu, X } from "lucide-react";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo-apple.png";
 import { Link } from "react-router-dom";
 import { useState } from "react";
 
